@@ -12,10 +12,11 @@ Olá!! Eu sou Lucas Henrique . Aqui você encontrará projetos nos quais estou t
 ## Sobre Mim
 
 
-
 - 🎓 Estudante de Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA
 - 💼 Experiência como Técnico Administrativo na Secretaria da Educação do Estado da Bahia
+- 💼 Experiência como Técnico de TI no Departamente de Policía Técnica / SSP ( Secretaria de Segurança Pública do Estado da Bahia) 
 - 📊 Projetos em manipulação de dados em Excel usando Python
+- 📊 Projetos com Inteligência Artificial
 
 ## Projetos em Destaque
 
