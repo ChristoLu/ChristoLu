@@ -1,6 +1,6 @@
-# Bem-vindo ao Meu Perfil no GitHub!
+# Bem-vindo ao Meu GitHub!
 
-Olá!! Eu sou Lucas Henrique . Aqui você encontrará projetos nos quais estou trabalhando, incluindo manipulação de dados em Excel usando Python, controle financeiro em Google Sheets, e muito mais.
+Olá ! Eu sou Lucas Henrique . Aqui você encontra projetos de manipulação de dados, inteligência artificial, automação com Python, chatbots e muito mais.
 
 ## Contato
 
@@ -9,26 +9,25 @@ Olá!! Eu sou Lucas Henrique . Aqui você encontrará projetos nos quais estou t
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinstagram)
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
+🎓 Graduando em Bacharelado Interdisciplinar em Ciência e Tecnologia – UFBA
+💼 Técnico Administrativo – Secretaria da Educação do Estado da Bahia
+💼 Técnico de TI – Departamento de Polícia Técnica / SSP-BA
+🤖 Apaixonado por automação, dados e inteligência artificial
 
-- 🎓 Estudante de Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA
-- 💼 Experiência como Técnico Administrativo na Secretaria da Educação do Estado da Bahia
-- 💼 Experiência como Técnico de TI no Departamente de Policía Técnica / SSP ( Secretaria de Segurança Pública do Estado da Bahia) 
-- 📊 Projetos em manipulação de dados em Excel usando Python
-- 📊 Projetos com Inteligência Artificial
+## 🚀 Projetos em Destaque
 
-## Projetos em Destaque
+- Chatbot Inteligente: Assistente virtual com Python, LangChain, ChromaDB e Flask
+- Manipulação de Dados em Excel: Scripts para automação e análise de planilhas
+- (Em breve mais projetos!)
 
-- [Projeto 1](link para o projeto): Projeto em breve
-- [Projeto 2](link para o projeto): Projeto em breve
+## 🛠️ Habilidades
 
-## Habilidades
-
-- Linguagens de Programação: Python, JavaScript, etc.
-- Ferramentas: Git, Excel, etc.
-- Outros:..........
-
+- Linguagens de Programação: Python, JavaScript, C++
+- Ferramentas: Git, Excel, LangChain, ChromaDB, Flask 
+- Outros: Automação, APIs, Inteligência Artificial, Processamento de Dados
+- 
 ---
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
