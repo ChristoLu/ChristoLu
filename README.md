@@ -11,10 +11,10 @@ Olá ! Eu sou Lucas Henrique . Aqui você encontra projetos de manipulação de 
 
 ## 👨‍💻 Sobre Mim
 
-🎓 Graduando em Bacharelado Interdisciplinar em Ciência e Tecnologia – UFBA
-💼 Técnico Administrativo – Secretaria da Educação do Estado da Bahia
-💼 Técnico de TI – Departamento de Polícia Técnica / SSP-BA
-🤖 Apaixonado por automação, dados e inteligência artificial
+- 🎓 Graduando em Bacharelado Interdisciplinar em Ciência e Tecnologia – UFBA
+- 💼 Técnico Administrativo – Secretaria da Educação do Estado da Bahia
+- 💼 Técnico de TI – Departamento de Polícia Técnica / SSP-BA
+- 🤖 Apaixonado por automação, dados e inteligência artificial
 
 ## 🚀 Projetos em Destaque
 
@@ -27,7 +27,6 @@ Olá ! Eu sou Lucas Henrique . Aqui você encontra projetos de manipulação de 
 - Linguagens de Programação: Python, JavaScript, C++
 - Ferramentas: Git, Excel, LangChain, ChromaDB, Flask 
 - Outros: Automação, APIs, Inteligência Artificial, Processamento de Dados
-- 
 ---
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
